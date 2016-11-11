@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arhive
-subtitle: Zilele trec greu, anii trec uşor...
+subtitle: Ceva Seneca pe aici...
 permalink: /arhive/
 ---
 
